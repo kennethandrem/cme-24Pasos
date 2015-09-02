@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/cme/vendor/jeremeamia/SuperClosure/src" isTestSource="false" packagePrefix="SuperClosure" />
+      <sourceFolder url="file://$MODULE_DIR$/cme/vendor/monolog/monolog/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cme/vendor/monolog/monolog/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/cme/vendor/phpspec/prophecy/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cme/vendor/mockery/mockery/tests" isTestSource="true" packagePrefix="test" />
+      <sourceFolder url="file://$MODULE_DIR$/cme/vendor/jakub-onderka/php-console-color/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cme/vendor/jakub-onderka/php-console-highlighter/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cme/vendor/psr/log" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cme/vendor/doctrine/inflector/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/cme/vendor/doctrine/inflector/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cme/vendor/doctrine/instantiator/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cme/vendor/phpspec/phpspec/features/bootstrap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cme/vendor/classpreloader/classpreloader/src" isTestSource="false" packagePrefix="ClassPreloader" />
+      <sourceFolder url="file://$MODULE_DIR$/cme" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cme/vendor/doctrine/instantiator/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/cme/vendor/mtdowling/cron-expression/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cme/vendor/phpspec/phpspec" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cme/vendor/phpspec/prophecy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cme/vendor/phpspec/phpspec/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cme/vendor/nesbot/carbon/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cme/vendor/hamcrest/hamcrest-php/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/cme/vendor/hamcrest/hamcrest-php/hamcrest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cme/vendor/laravel/framework/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cme/vendor/fzaninotto/faker/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cme/vendor/psy/psysh/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cme/vendor/psy/psysh/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/cme/vendor/nikic/php-parser/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cme/vendor/nikic/php-parser/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/cme/vendor/phpdocumentor/reflection-docblock/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cme/vendor/phpdocumentor/reflection-docblock/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/cme/vendor/mockery/mockery/library" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cme/vendor/mockery/mockery/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/cme/vendor/mockery/mockery/tests/Mockery/Test" isTestSource="true" packagePrefix="Mockery" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
