@@ -17,4 +17,6 @@ Route::get('/', function () {
 Route::get('/centro', function () {
     return view('centro');
 });
-
+Route::get('/login', function () {
+    return view('login');
+});
